@@ -1,9 +1,9 @@
 <?php
-// Databaseverbinding
-$host = 'database-5017150372.webspace-host.com';
-$db = 'dbs13783528'; // vervang dit door je database naam
-$user = 'dbu2231100'; // vervang dit door je database gebruiker
-$pass = 'QK1HETX@g!'; // vervang dit door je database wachtwoord
+// // Databaseverbinding
+// $host = '';
+// $db = ''; // vervang dit door je database naam
+// $user = ''; // vervang dit door je database gebruiker
+// $pass = ''; // vervang dit door je database wachtwoord
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
