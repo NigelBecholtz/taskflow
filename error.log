@@ -1,0 +1,60 @@
+[05-Feb-2025 11:08:34 UTC] Loading plan.php for user_id: 8
+[05-Feb-2025 11:08:34 UTC] Debug: Found 0 tasks in database
+[05-Feb-2025 11:08:34 UTC] Debug: Found 0 lists
+[05-Feb-2025 11:08:34 UTC] Current user_id: 8
+[05-Feb-2025 11:08:34 UTC] Found 0 total tasks
+[05-Feb-2025 11:11:33 UTC] Loading plan.php for user_id: 10
+[05-Feb-2025 11:11:33 UTC] Debug: Found 0 tasks in database
+[05-Feb-2025 11:11:33 UTC] Debug: Found 4 lists
+[05-Feb-2025 11:11:33 UTC] Debug: List 'Backlog' (ID: 17)
+[05-Feb-2025 11:11:33 UTC] Debug: List 'To-do' (ID: 18)
+[05-Feb-2025 11:11:33 UTC] Debug: List 'In Progress' (ID: 19)
+[05-Feb-2025 11:11:33 UTC] Debug: List 'Done' (ID: 20)
+[05-Feb-2025 11:11:33 UTC] Current user_id: 10
+[05-Feb-2025 11:11:33 UTC] Found 0 total tasks
+[05-Feb-2025 11:11:51 UTC] Loading plan.php for user_id: 10
+[05-Feb-2025 11:11:51 UTC] Debug: Found 0 tasks in database
+[05-Feb-2025 11:11:51 UTC] Debug: Found 4 lists
+[05-Feb-2025 11:11:51 UTC] Debug: List 'Backlog' (ID: 17)
+[05-Feb-2025 11:11:51 UTC] Debug: List 'To-do' (ID: 18)
+[05-Feb-2025 11:11:51 UTC] Debug: List 'In Progress' (ID: 19)
+[05-Feb-2025 11:11:51 UTC] Debug: List 'Done' (ID: 20)
+[05-Feb-2025 11:11:51 UTC] Current user_id: 10
+[05-Feb-2025 11:11:51 UTC] Found 1 total tasks
+[05-Feb-2025 11:12:13 UTC] Loading plan.php for user_id: 11
+[05-Feb-2025 11:12:13 UTC] Debug: Found 0 tasks in database
+[05-Feb-2025 11:12:13 UTC] Debug: Found 4 lists
+[05-Feb-2025 11:12:13 UTC] Debug: List 'Backlog' (ID: 21)
+[05-Feb-2025 11:12:13 UTC] Debug: List 'To-do' (ID: 22)
+[05-Feb-2025 11:12:13 UTC] Debug: List 'In Progress' (ID: 23)
+[05-Feb-2025 11:12:13 UTC] Debug: List 'Done' (ID: 24)
+[05-Feb-2025 11:12:13 UTC] Current user_id: 11
+[05-Feb-2025 11:12:13 UTC] Found 0 total tasks
+[05-Feb-2025 11:12:20 UTC] Loading plan.php for user_id: 10
+[05-Feb-2025 11:12:20 UTC] Debug: Found 1 tasks in database
+[05-Feb-2025 11:12:20 UTC] Debug: Task 'test' in list 'Done' (list_id: 20)
+[05-Feb-2025 11:12:20 UTC] Debug: Found 4 lists
+[05-Feb-2025 11:12:20 UTC] Debug: List 'Backlog' (ID: 17)
+[05-Feb-2025 11:12:20 UTC] Debug: List 'To-do' (ID: 18)
+[05-Feb-2025 11:12:20 UTC] Debug: List 'In Progress' (ID: 19)
+[05-Feb-2025 11:12:20 UTC] Debug: List 'Done' (ID: 20)
+[05-Feb-2025 11:12:20 UTC] Current user_id: 10
+[05-Feb-2025 11:12:20 UTC] Found 1 total tasks
+[05-Feb-2025 11:26:42 UTC] Loading plan.php for user_id: 12
+[05-Feb-2025 11:26:42 UTC] Debug: Found 0 tasks in database
+[05-Feb-2025 11:26:42 UTC] Debug: Found 4 lists
+[05-Feb-2025 11:26:42 UTC] Debug: List 'Backlog' (ID: 25)
+[05-Feb-2025 11:26:42 UTC] Debug: List 'To-do' (ID: 26)
+[05-Feb-2025 11:26:42 UTC] Debug: List 'In Progress' (ID: 27)
+[05-Feb-2025 11:26:42 UTC] Debug: List 'Done' (ID: 28)
+[05-Feb-2025 11:26:42 UTC] Current user_id: 12
+[05-Feb-2025 11:26:42 UTC] Found 0 total tasks
+[05-Feb-2025 11:27:24 UTC] Loading plan.php for user_id: 12
+[05-Feb-2025 11:27:24 UTC] Debug: Found 0 tasks in database
+[05-Feb-2025 11:27:24 UTC] Debug: Found 4 lists
+[05-Feb-2025 11:27:24 UTC] Debug: List 'Backlog' (ID: 25)
+[05-Feb-2025 11:27:24 UTC] Debug: List 'To-do' (ID: 26)
+[05-Feb-2025 11:27:24 UTC] Debug: List 'In Progress' (ID: 27)
+[05-Feb-2025 11:27:24 UTC] Debug: List 'Done' (ID: 28)
+[05-Feb-2025 11:27:24 UTC] Current user_id: 12
+[05-Feb-2025 11:27:24 UTC] Found 0 total tasks
